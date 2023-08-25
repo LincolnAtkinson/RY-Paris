@@ -166,7 +166,7 @@ a {
     width: 20%;
 }
 .recipe {
-    height: 1450px;
+    height: 1750px;
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
@@ -257,4 +257,8 @@ input {
 }
 .click:hover {
     color: black;
+}
+iframe {
+    width: 600px;
+    height: 300px;
 }
